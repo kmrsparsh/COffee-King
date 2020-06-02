@@ -1,0 +1,48 @@
+.nav-wrapper{
+    background-color: #674037;
+}
+.brand-logo{
+    float: left;
+    position: relative;
+    margin-left: 4%;
+}
+.brand-logo img{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 5px;
+    width: 50%; 
+    height: 50%; 
+    object-fit: contain; 
+}
+
+.slider .indicators .indicator-item.active{
+    background-color: #674037;
+}
+.move{
+    /* margin-top: 16px;  */
+    margin-bottom: 20px;
+}
+
+.parallax-container{
+    min-height: 380px;
+    height: auto;
+}
+
+.icon-coffee{
+    color: #674037;
+}
+
+.footer-one{
+    background: #674037;
+}
+
+.footer-two{
+    background: #462822;
+}
+.right{
+    float: right;
+}
+
+.ico{
+    color: #fff;
+}
